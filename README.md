@@ -24,7 +24,7 @@ If you have never ran the Avian wallet, follow the first set of directions below
 1. If you do not have the [latest Avian wallet](https://www.avn.network/start-mining), download and install it.
 1. Run the wallet and syncing should begin at the bootstrap's last block.
 
-#### If you have *never* ran the Blocknet wallet:
+#### If you have *never* ran the Avian wallet:
 
 1. Download the [latest bootstrap files](https://wallet.avn.network/bootstrap/Avian.zip).
 1. Find the downloaded *Avian.zip* file and double-click. This will unzip the file and show a folder named *Avian*.
