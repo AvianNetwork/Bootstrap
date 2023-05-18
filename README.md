@@ -9,7 +9,7 @@ If you have never ran the Avian wallet, follow the first set of directions below
 
 #### If you have *already* ran the Avian wallet:
 
-1. Download the [latest bootstrap files](https://github.com/aviannetwork/bootstrap/releases/download/v1.0/avian.zip).
+1. Download the [latest bootstrap files](https://wallet.avn.network/bootstrap/Avian.zip).
 1. Find the downloaded *avian.zip* file and double-click. This will unzip the file and show a folder named *avian*.
 1. Close and quit the Avian wallet if it is running.
 1. Navigate to your OS's respective data directory.
@@ -26,7 +26,7 @@ If you have never ran the Avian wallet, follow the first set of directions below
 
 #### If you have *never* ran the Blocknet wallet:
 
-1. Download the [latest bootstrap files](https://github.com/blocknetdx/blocknet-blockchain-bootstrap/releases/download/v4.0/Avian.zip).
+1. Download the [latest bootstrap files](https://wallet.avn.network/bootstrap/Avian.zip).
 1. Find the downloaded *Avian.zip* file and double-click. This will unzip the file and show a folder named *Avian*.
 1. Move the *Avian* folder to your OS's respective data directory.
 
