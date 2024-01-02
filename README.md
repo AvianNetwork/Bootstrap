@@ -26,7 +26,7 @@ If you have never run the Avian wallet, follow the first set of directions below
 
 #### If you have *never* run the Avian wallet:
 
-1. Download the [latest bootstrap files](https://wallet.avn.network/bootstrap/Avian.zip).
+1. Download the [latest bootstrap files](https://github.com/AvianNetwork/Bootstrap/releases).
 1. Find the downloaded *Avian.zip* file and double-click. This will unzip the file and show a folder named *Avian*.
 1. Move the *Avian* folder to your OS's respective data directory.
 
